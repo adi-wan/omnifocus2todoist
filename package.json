@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "camelcase": "^6.3.0",
+    "fast-csv": "^4.3.6",
+    "zx": "^6.0.7"
+  }
+}
